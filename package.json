@@ -1,5 +1,5 @@
 {
-  "name": "wa-sticker-formatter",
+  "name": "wa-sticker-formatter-sharp-bao",
   "version": "4.3.2",
   "description": "Sticker Creator for WhatsApp",
   "main": "dist",
@@ -32,9 +32,9 @@
   },
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/Alensaito1/wa-sticker-formatter"
+    "url": "https://github.com/mellemhere/wa-sticker-formatter-sharp-bao"
   },
-  "issues": "https://github.com/Alensaito1/wa-sticker-formatter",
+  "issues": "https://github.com/mellemhere/wa-sticker-formatter-sharp-bao",
   "devDependencies": {
     "@types/fluent-ffmpeg": "^2.1.18",
     "@types/fs-extra": "^9.0.13",
